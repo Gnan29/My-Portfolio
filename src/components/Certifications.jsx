@@ -1,6 +1,6 @@
 // src/components/Certifications.jsx
 import React from "react";
-import { SiCisco, SiWalmart, SiPwc, SiTata, SiCodingninjas } from "react-icons/si";
+import { SiMongodb, SiCisco, SiWalmart, SiPwc, SiTata, SiCodingninjas } from "react-icons/si";
 import { FaUniversity } from "react-icons/fa";
 import { FaChartLine } from "react-icons/fa";
 
@@ -42,7 +42,7 @@ const Certifications = () => {
             PET B1 – Cambridge University (2022)
           </li>
           <li className="flex items-center gap-3">
-            <SiCisco className="text-[#1E90FF]" size={22} />
+            <SiMongodb className="text-[#1E90FF]" size={22} />
             MERN Stack Development – ByteXL (Nov 2024)
           </li>
         </ul>
