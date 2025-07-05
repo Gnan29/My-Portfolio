@@ -14,7 +14,7 @@ const Resume = () => {
 
       {/* ✅ Download Button */}
       <a
-        href="/ResumeDGR.pdf"
+        href="C:\Users\gnane\my-portfolio\public\ResumeDGR.pdf"
         download
         className="inline-block bg-green-500 text-white px-6 py-2 rounded-lg shadow hover:bg-green-600 transition"
       >
@@ -24,7 +24,7 @@ const Resume = () => {
       {/* ✅ Resume Preview (iframe) */}
       <div className="mt-10 max-w-4xl mx-auto">
         <iframe
-          src="/ResumeDGR.pdf"
+          src="C:\Users\gnane\my-portfolio\public\ResumeDGR.pdf"
           width="100%"
           height="600px"
           className="border rounded-lg shadow"
