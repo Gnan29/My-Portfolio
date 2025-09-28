@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLinkedin, FaGithub, FaGlobe } from "react-icons/fa";
-import profilePic from "../assets/profile.png"; // 👈 place your photo here
-import bgImage from "../assets/gnan.jpg";          // 👈 place watercolor background here
+import profilePic from "../assets/gnan.jpg"; // 👈 place your photo here
+import bgImage from "../assets/background.jpg";          // 👈 place watercolor background here
 
 const Hero = () => {
   return (
